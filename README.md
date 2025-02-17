@@ -5,3 +5,13 @@ changing branches , pushing per collaborator .. etc
    git add .
    git commit -m 'br br br '
    git push origin Development
+
+
+
+
+team1boy
+clone project repo under development branch
+git checkout -b 'branch name'
+git pull origin development
+git add..
+git push origin branch name 
